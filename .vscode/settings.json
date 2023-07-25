@@ -1,0 +1,5 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.diff.enablePreview": false,
+  "prettier.useEditorConfig": false
+}
